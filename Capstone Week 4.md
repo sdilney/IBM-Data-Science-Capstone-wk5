@@ -16,3 +16,9 @@ existing Starbucks coffee shops.  The second is for the City of Toronto for the 
 through neighborhood names and postal codes. The final data set includes the neighborhoods where coffee shop of cafe are the 1st or 2nd most preferred venue, the population
 estimate, and the nubmer of starbucks locations per resident of the community.
 
+The file Starbuck_locations2 contains the store locations
+
+The file torontostarbuck6 includes population data added to the neighbourhood data.
+
+These files are shown in the Github Page as shared.
+
