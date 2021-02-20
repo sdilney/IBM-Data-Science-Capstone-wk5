@@ -1,0 +1,364 @@
+ID,Lat,Long,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,Unit Type,Unit Number,City,State,County,Zip,Country,Source
+75921-104040,43.086574,-79.059356,43.086904,-79.059375,1,rooftop,300,3rd St,,,Niagara Falls,NY,Niagara County,14303,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+3997-146205,43.077276,-79.082792,43.077258,-79.083089,1,rooftop,6755,Fallsview Blvd,,,Niagara Falls,ON,,L2G,CA,Niagara Region
+75525-35359,43.078906,-79.081879,43.079035,-79.082146,1,rooftop,6732,Fallsview Blvd,,,Niagara Falls,ON,,L2G,CA,City of Niagara Falls
+75633-86381,43.079703,-79.082204,43.07951,-79.082067,1,rooftop,6700,Fallsview Blvd,,,Niagara Falls,ON,,L2E,CA,City of Niagara Falls
+75790-96396,43.082189,-79.082469,43.082574,-79.083232,1,rooftop,6361,Fallsview Blvd,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+75826-96571,43.083867,-79.079999,43.08406,-79.081417,0.99,rooftop,5305,Murray St,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+15793-158605,43.082173,-79.082901,43.082574,-79.083232,1,rooftop,6361,Fallsview Blvd,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+57744-291097,43.082474,-79.083214,43.082574,-79.083232,1,rooftop,6361,Fallsview Blvd,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+75716-95583,43.085072,-79.080029,43.085115,-79.079584,1,rooftop,5200,Robinson St,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+75806-68443,43.090825,-79.072889,43.091156,-79.072843,1,rooftop,4915,Clifton Hl,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+75571-68502,43.091868,-79.071479,43.092514,-79.071659,1,rooftop,5685,Falls Ave,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+54219-285743,43.089883,-79.079372,43.089851,-79.079257,1,rooftop,5940,Victoria Ave,,,Niagara Falls,ON,,L2E,CA,City of Niagara Falls
+75798-95900,43.092149,-79.076253,43.09216,-79.076329,1,rooftop,5733,Victoria Ave,,,Niagara Falls,ON,,L2E,CA,Niagara Region
+52002-280428,43.08982,-79.097232,43.089905,-79.097075,1,rooftop,6179,Lundy's Ln,,,Niagara Falls,ON,,L2G,CA,City of Niagara Falls
+20296-104210,43.070423,-79.128294,43.070548,-79.128324,1,rooftop,7925,McLeod Rd,,,Niagara Falls,ON,,L2H,CA,City of Niagara Falls
+58015-290562,43.088752,-79.136208,43.089264,-79.135772,1,rooftop,8209,Lundy's Ln,,,Niagara Falls,ON,,L2H,CA,Niagara Region
+18962-181665,43.114188,-79.123507,43.114185,-79.123499,1,rooftop,4030,Montrose Rd,,,Niagara Falls,ON,,L2H,CA,Niagara Region
+22091-205050,43.155656,-79.168483,43.155528,-79.167647,1,rooftop,235,Taylor Rd,,,Niagara-On-The-Lake,ON,,L0S,CA,City of Niagara Falls
+19841-199684,43.137306,-79.215744,43.137233,-79.215968,1,rooftop,343,Glendale Ave,,,St. Catharines,ON,,L2T,CA,Niagara Region
+48418-262967,43.135123,-79.224231,43.136154,-79.224563,0.99,rooftop,221,Glendale Ave,,,St. Catharines,ON,,L2T,CA,City of Saint Catherines
+55947-283787,43.22704,-79.116314,43.226963,-79.116632,1,rooftop,1630,Niagara Stone Rd,,,Niagara-On-The-Lake,ON,,L0S,CA,City of Niagara Falls
+4556-94105,43.154894,-79.268019,43.154971,-79.267008,0.99,rooftop,170,4th Ave,,,St. Catharines,ON,,L2S,CA,City of Saint Catherines
+4319-1832,43.176281,-79.243769,43.177514,-79.24377,0.99,rooftop,285,Geneva St,,,St. Catharines,ON,,L2N,CA,City of Saint Catherines
+15559-158304,43.256436,-79.074568,43.25625,-79.074535,1,rooftop,114,Queen St,,,Niagara-On-The-Lake,ON,,L0S,CA,City of Niagara Falls
+4962-132004,43.190164,-79.227166,43.190742,-79.227377,1,rooftop,90,Regent Dr,,,St. Catharines,ON,,L2M,CA,City of Saint Catherines
+27142-142364,43.183917,-79.251042,43.183706,-79.250841,1,rooftop,27,Nihan Dr,,,St. Catharines,ON,,L2N,CA,City of Saint Catherines
+17411-171644,43.174149,-79.274883,43.17407,-79.27507,1,rooftop,261,Martindale Rd,,,St. Catharines,ON,,L2S,CA,City of Saint Catherines
+4279-865,43.226753,-79.95421,43.225827,-79.954064,0.99,rooftop,737,Golf Links Rd,,,Trinity,ON,,L9G,CA,City of Hamilton
+49241-265204,43.245098,-79.948967,43.245415,-79.949143,1,rooftop,1175,Wilson St E,,,Trinity,ON,,L9G,CA,City of Hamilton
+17203-171524,43.257553,-79.919376,43.257549,-79.919165,1,rooftop,1341,Main St W,,,Hamilton,ON,,L8S,CA,City of Hamilton
+15722-155290,43.266189,-79.955937,43.266183,-79.955938,1,rooftop,46,King St W,,,Hamilton,ON,,L9H,CA,City of Hamilton
+4323-1693,43.206677,-79.891608,43.206085,-79.89215,1,rooftop,1508,Upper James St,,,Hamilton,ON,,L9B,CA,City of Hamilton
+4915-122111,43.256156,-79.885456,43.256128,-79.885588,1,rooftop,158,Locke St S,,,Hamilton,ON,,L8P,CA,City of Hamilton
+49532-269564,43.216576,-79.862585,43.217433,-79.861805,0.99,rooftop,999,Upper Wentworth St,,,Hamilton,ON,,L8V,CA,City of Hamilton
+21992-186228,43.257904,-79.871874,43.257937,-79.872048,1,rooftop,116,King St W,,,Hamilton,ON,,L8R,CA,City of Hamilton
+49533-269384,43.260344,-79.873778,43.260429,-79.874041,1,rooftop,151,York Blvd,,,Hamilton,ON,,L8R,CA,City of Hamilton
+53974-285686,43.255633,-79.866347,43.255455,-79.866496,1,rooftop,110,King St E,,,Hamilton,ON,,L8N,CA,City of Hamilton
+4979-133665,43.318477,-79.911628,43.318633,-79.911602,1,rooftop,6,Clappison Ave,,,Hamilton,ON,,L0R,CA,City of Hamilton
+58375-292398,43.25077,-79.812754,43.250447,-79.812916,1,rooftop,1164,Barton St E,,,Hamilton,ON,,L8H,CA,City of Hamilton
+4980-138085,43.195545,-79.810626,43.195428,-79.810219,1,rooftop,1783,Stone Church Rd E,,,Tapleytown,ON,,L8J,CA,City of Hamilton
+4494-93178,43.325919,-79.819863,43.325868,-79.820266,1,rooftop,900,Maple Ave,,,Burlington,ON,,L7S,CA,Halton
+79269-99848,43.329457,-79.819617,43.329189,-79.819405,1,rooftop,895,Maple Ave,,,Burlington,ON,,L7S,CA,City of Burlington
+56151-289063,43.224249,-79.749006,43.224104,-79.749095,1,rooftop,90,Highway No,,,Stoney Creek,ON,,L8G,CA,City of Hamilton
+4511-93329,43.344356,-79.827346,43.343921,-79.827355,1,rooftop,1250,Brant St,,,Burlington,ON,,L7P,CA,City of Burlington
+4709-103125,43.327628,-79.800447,43.327627,-79.800425,1,rooftop,503,Brant St,,,Burlington,ON,,L7R,CA,City of Burlington
+4607-98090,43.219535,-79.725717,43.219552,-79.725384,1,rooftop,369,Highway No,,,Winona,ON,,L8E,CA,City of Hamilton
+55381-289197,43.347309,-79.79526,43.347965,-79.794138,0.99,rooftop,777,Guelph Line,,,Burlington,ON,,L7N,CA,City of Burlington
+54050-284127,43.216197,-79.640722,43.216467,-79.641027,1,rooftop,1352,S Service Rd,,,Winona,ON,,L8E,CA,City of Hamilton
+23284-222864,43.204033,-79.59676,43.204654,-79.598175,0.99,rooftop,415,S Service Rd,,,Grassie,ON,,L3M,CA,City of Niagara Falls
+50472-265924,43.880028,-79.024983,43.880071,-79.024751,1,rooftop,5,Rossland Rd E,,,Ajax,ON,,L1Z,CA,Township of Durham
+49715-265165,43.879364,-79.026689,43.879483,-79.026349,1,rooftop,999,Harwood Ave N,,,Ajax,ON,,L1Z,CA,City of Ajax
+4304-853,43.863117,-79.021326,43.86333,-79.021341,1,rooftop,90,Kingston Rd E,,,Ajax,ON,,L1Z,CA,City of Ajax
+4756-104231,43.507059,-79.83773,43.507075,-79.837788,1,rooftop,1060,Kennedy Cir,,,Milton,ON,,L9T,CA,Halton
+29167-249436,43.449843,-79.763507,43.450341,-79.763509,1,rooftop,3001,Hospital Gate,,,Snider,ON,,L6M,CA,Halton
+52367-281585,43.464233,-79.745086,43.464139,-79.745257,1,rooftop,1020,Dundas St W,,,Oakville,ON,,L6H,CA,City of Oakville
+4531-94623,43.449649,-79.75904,43.449319,-79.758883,1,rooftop,2501,3rd Line,,,Snider,ON,,L6M,CA,City of Oakville
+4757-104792,43.428933,-79.765287,43.429066,-79.764931,1,rooftop,2983,Westoak Trails Blvd,,,Snider,ON,,L6M,CA,Halton
+4678-100978,43.405495,-79.808096,43.405286,-79.807718,1,rooftop,2500,Appleby Line,,,Zimmerman,ON,,L7M,CA,City of Burlington
+19770-183025,43.393805,-79.823728,43.393658,-79.823426,1,rooftop,3051,Walker's Line,,,Zimmerman,ON,,L7M,CA,City of Burlington
+16499-170404,43.390941,-79.822296,43.390867,-79.822739,1,rooftop,3650,Dundas St,,,Zimmerman,ON,,L7M,CA,Halton
+58365-290600,43.392407,-79.793341,43.392321,-79.793694,1,rooftop,2010,Appleby Line,,,Zimmerman,ON,,L7M,CA,City of Burlington
+18433-182389,43.391088,-79.788336,43.391103,-79.788197,1,rooftop,1860,Appleby Line,,,Zimmerman,ON,,L7M,CA,City of Burlington
+73863-106113,43.39798,-79.747127,43.398154,-79.747051,1,rooftop,3455,Wyecroft Rd,,,Snider,ON,,L6M,CA,Halton
+4675-100793,43.37332,-79.761117,43.373296,-79.761029,1,rooftop,675,Appleby Line,,,Burlington,ON,,L7L,CA,Halton
+16467-157224,43.368238,-79.75421,43.36839,-79.754551,1,rooftop,491,Appleby Line,,,Burlington,ON,,L7L,CA,City of Burlington
+50088-272604,43.358845,-79.781345,43.358894,-79.781504,1,rooftop,3497,Fairview St,,,Burlington,ON,,L7N,CA,Halton
+55133-288878,43.702435,-79.829202,43.70239,-79.829118,1,rooftop,10,Earlsbridge Blvd,,,Brampton,ON,,L7A,CA,Peel Region
+27008-241205,43.679649,-79.842424,43.679624,-79.842341,1,rooftop,47,Dufay Rd,,,Brampton,ON,,L7A,CA,City of Brampton
+19572-200494,43.681776,-79.814992,43.681784,-79.81504,1,rooftop,17,Worthington Ave,,,Brampton,ON,,L7A,CA,City of Brampton
+4344-1729,43.728717,-79.762492,43.72878,-79.762422,1,rooftop,90,Great Lakes Dr,,,Brampton,ON,,L6Z,CA,Peel Region
+4343-2067,43.706131,-79.783209,43.705972,-79.783165,1,rooftop,52,Quarry Edge Dr,,,Brampton,ON,,L6V,CA,City of Brampton
+49643-269865,43.630184,-79.87618,43.629881,-79.876657,1,rooftop,380,Mountainview Rd S,,,Halton Hills,ON,,L7G,CA,Halton
+48145-261615,43.693732,-79.75211,43.693751,-79.75214,1,rooftop,190,Queen St E,,,Brampton,ON,,L6V,CA,City of Brampton
+15121-153346,43.686264,-79.759631,43.686349,-79.759739,1,rooftop,8,Queen St E,,,Brampton,ON,,L6V,CA,Peel Region
+23274-210524,43.655803,-79.767868,43.655928,-79.76792,1,rooftop,55,Dusk Dr,,,Brampton,ON,,L6Y,CA,Peel Region
+52984-283789,43.575022,-79.829313,43.575318,-79.829607,1,rooftop,13850,Steeles Ave,,,Halton Hills,ON,,L0P,CA,Halton
+4872-106562,43.598285,-79.783616,43.59839,-79.783859,1,rooftop,2963,Argentia Rd,,,Mississauga,ON,,L5N,CA,Peel Region
+4014-138344,43.540361,-79.871586,43.54042,-79.871905,1,rooftop,1180,Steeles Ave E,,,Milton,ON,,L9T,CA,Halton
+16144-164684,43.609677,-79.75076,43.609782,-79.751055,1,rooftop,6974,Financial Dr,,,Mississauga,ON,,L5W,CA,Peel Region
+16903-173366,43.537142,-79.872086,43.537025,-79.871842,1,rooftop,284,Van Allen Gate,,,Milton,ON,,L9T,CA,Halton
+4584-96820,43.523159,-79.899373,43.522992,-79.899604,1,rooftop,20,Market Dr,,,Milton,ON,,L9T,CA,Halton
+4912-108636,43.539157,-79.856676,43.53902,-79.856752,1,rooftop,51,James Snow Pkwy N,,,Milton,ON,,L0P,CA,Halton
+4833-107475,43.527264,-79.866158,43.527173,-79.866277,1,rooftop,870,Main St E,,,Milton,ON,,L9T,CA,Halton
+58361-292508,43.51377,-79.882315,43.513704,-79.882321,1,rooftop,252,Main St E,,,Milton,ON,,L9T,CA,Halton
+12125-152237,43.892084,-79.442085,43.89175,-79.44272,1,rooftop,10850,Yonge St,,,Richmond Hill,ON,,L4C,CA,York
+55346-288947,43.967372,-79.264355,43.967983,-79.265022,0.99,rooftop,5710,Main St,,,Stouffville,ON,,L4A,CA,York
+4905-110264,43.896298,-79.40395,43.896227,-79.40389,1,rooftop,1241,Elgin Mills Rd E,,,Richmond Hill,ON,,L4S,CA,City of Markham
+55422-289291,43.966525,-79.264452,43.96574,-79.263621,0.99,rooftop,5769,Main St,,,Stouffville,ON,,L4A,CA,City of Markham
+4982-105180,43.862194,-79.485136,43.862137,-79.485229,1,rooftop,1420,Major Mackenzie Dr,,,Peace Village (Ahmadiyya Village),ON,,L6A,CA,City of Vaughan
+56639-290530,43.945968,-79.970764,43.945974,-79.970809,1,rooftop,19854,Airport Rd,,,Mono,ON,,L7K,CA,Peel Region
+17843-173859,43.858686,-79.709962,43.858725,-79.710149,1,rooftop,12550,50 Hwy,,,Caledon,ON,,L7E,CA,Peel Region
+54361-279904,43.93249,-79.510316,43.932131,-79.510196,1,rooftop,10,Spring Hill Dr,,,King City,ON,,L7B,CA,City of Markham
+58132-289531,43.947827,-79.454878,43.947848,-79.454836,1,rooftop,13081,Yonge St,,,Gormley,ON,,L4E,CA,City of Markham
+4850-104701,43.91276,-79.447289,43.912639,-79.447424,1,rooftop,11710,Yonge St,,,Gormley,ON,,L4E,CA,City of Markham
+29443-253504,43.898418,-79.443996,43.898242,-79.444098,1,rooftop,11108,Yonge St,,,Richmond Hill,ON,,L4C,CA,York
+4860-106552,43.85879,-79.037866,43.85961,-79.03706,0.99,rooftop,260,Kingston Rd W,,,Ajax,ON,,L1T,CA,City of Ajax
+57286-290788,43.829078,-79.088098,43.829005,-79.08831,1,rooftop,1300,Bayly St,,,Pickering,ON,,L1W,CA,Township of Durham
+4414-20599,43.836648,-79.089921,43.837258,-79.08978,1,rooftop,1300,Kingston Rd,,,Pickering,ON,,L1V,CA,City of Pickering
+16709-161186,43.797471,-79.148805,43.797578,-79.148797,1,rooftop,6742,Kingston Rd,,,Scarborough,ON,,M1B,CA,City of Toronto
+52586-280629,43.743753,-79.216334,43.744012,-79.216279,1,rooftop,3244,Eglinton Ave E,,,Scarborough,ON,,M1J,CA,City of Toronto
+4777-104186,43.770374,-79.186485,43.770531,-79.186368,1,rooftop,259,Morningside Ave,,,Scarborough,ON,,M1E,CA,City of Toronto
+4265-1032,43.86843,-79.312055,43.868467,-79.312067,1,rooftop,205,Main Unionville St,,,Markham,ON,,L3R,CA,York
+19865-177964,43.868213,-79.287747,43.868449,-79.288142,1,rooftop,5000,Highway 7,,,Markham,ON,,L3R,CA,York
+54228-286471,43.838587,-79.430278,43.838579,-79.430619,1,rooftop,8656,Yonge St,,,Richmond Hill,ON,,L4C,CA,York
+4965-126344,43.885077,-79.37279,43.885128,-79.372969,1,rooftop,2880,Major Mackenzie Dr E,,,Almira,ON,,L6C,CA,York
+4927-122112,43.873977,-79.260742,43.874141,-79.260782,1,rooftop,5954,Highway 7,,,Dickson Hill,ON,,L3P,CA,York
+48986-266124,43.853253,-79.43599,43.85209,-79.435794,0.99,rooftop,89,Carrville Rd,,,Richmond Hill,ON,,L4C,CA,City of Markham
+55463-289303,43.855083,-79.435233,43.854821,-79.436083,1,rooftop,9350,Yonge St,,,Richmond Hill,ON,,L4C,CA,York
+4951-128928,43.866332,-79.229085,43.866203,-79.22929,1,rooftop,70,Copper Creek Dr,,,Markham,ON,,L6B,CA,York
+73966-138016,43.868394,-79.229631,43.868594,-79.229712,1,rooftop,98,Copper Creek Dr,,,Markham,ON,,L6B,CA,York
+6189-149865,43.847263,-79.460603,43.847707,-79.461388,1,rooftop,828,Rutherford Rd,,,Peace Village (Ahmadiyya Village),ON,,L6A,CA,York
+4580-96128,43.822601,-79.325902,43.822412,-79.325923,1,rooftop,7080,Warden Ave,,,Markham,ON,,L6G,CA,York
+4874-115910,43.816306,-79.293317,43.816211,-79.293312,1,rooftop,3740,Midland Ave,,,Scarborough,ON,,M1V,CA,City of Toronto
+54931-288675,43.776324,-79.259292,43.776292,-79.258022,0.99,rooftop,300,Borough Dr,,,Scarborough,ON,,M1P,CA,City of Toronto
+4318-249544,43.783774,-79.253314,43.783819,-79.253249,1,rooftop,43,Milner Ave,,,Scarborough,ON,,M1S,CA,City of Toronto
+4252-786,43.849329,-79.351937,43.849968,-79.35205,1,rooftop,3175,Highway 7,,,Markham,ON,,L6G,CA,York
+75972-106123,43.845466,-79.380942,43.845732,-79.380854,1,rooftop,600,Highway 7,,,Richmond Hill,ON,,L4B,CA,City of Markham
+73735-106117,43.849784,-79.355144,43.849285,-79.355517,1,rooftop,3083,Highway 7,,,Markham,ON,,L6G,CA,York
+52144-280749,43.850566,-79.356692,43.850553,-79.35731,1,rooftop,3000,Highway 7,,,Markham,ON,,L3R,CA,York
+4572-9633,43.84385,-79.408041,43.843522,-79.408121,1,rooftop,8750,Bayview Ave,,,Richmond Hill,ON,,L4B,CA,York
+55389-286621,43.844056,-79.411313,43.844369,-79.411354,1,rooftop,3,Far Niente St,,,Richmond Hill,ON,,L4B,CA,York
+4645-99110,43.817106,-79.4243,43.816951,-79.423989,1,rooftop,7775,Yonge St,,,Thornhill,ON,,L3T,CA,City of Markham
+23280-204964,43.832325,-79.405081,43.832403,-79.404973,1,rooftop,8200,Bayview Ave,,,Thornhill,ON,,L3T,CA,City of Markham
+4609-97961,43.822606,-79.350591,43.822542,-79.350404,1,rooftop,7333,Woodbine Ave,,,Markham,ON,,L6G,CA,City of Markham
+5161-135184,43.769725,-79.374317,43.769887,-79.374399,1,rooftop,806,Sheppard Ave E,,,York,ON,,M2K,CA,City of Toronto
+4863-286832,43.778029,-79.343307,43.777748,-79.344498,0.99,rooftop,1800,Sheppard Ave E,,,York,ON,,M2J,CA,City of Toronto
+49141-266125,43.769076,-79.386685,43.769203,-79.386026,1,rooftop,2901,Bayview Ave,,,York,ON,,M2K,CA,City of Toronto
+4469-87801,43.509066,-79.631476,43.508821,-79.631754,1,rooftop,950,Southdown Rd,,,Mississauga,ON,,L5J,CA,Peel Region
+17341-179604,43.526681,-79.650622,43.526731,-79.65064,1,rooftop,1930,Fowler Dr,,,Mississauga,ON,,L5K,CA,Peel Region
+15841-164465,43.525734,-79.685654,43.525898,-79.685385,1,rooftop,3165,Winston Churchill Blvd,,,Mississauga,ON,,L5L,CA,Peel Region
+4278-885,43.518295,-79.687193,43.518366,-79.687231,1,rooftop,3235,Dundas St W,,,Mississauga,ON,,L5L,CA,Peel Region
+4290-1226,43.51579,-79.69079,43.516185,-79.689644,0.99,rooftop,3047,Vega Blvd,,,Mississauga,ON,,L5L,CA,Peel Region
+57459-290857,43.49418,-79.679678,43.493489,-79.679719,1,rooftop,1933,Ironoak Way,,,Oakville,ON,,L6H,CA,City of Oakville
+12467-138345,43.554612,-79.712064,43.554749,-79.712574,1,rooftop,5015,Glen Erin Dr,,,Mississauga,ON,,L5M,CA,Peel Region
+51922-280104,43.558099,-79.712116,43.558239,-79.711943,1,rooftop,5100,Erin Mills Pkwy,,,Mississauga,ON,,L5M,CA,Peel Region
+55390-286738,43.555028,-79.714545,43.554741,-79.715104,1,rooftop,5010,Glen Erin Dr,,,Mississauga,ON,,L5M,CA,Peel Region
+4816-104227,43.497612,-79.707513,43.49764,-79.707526,1,rooftop,2509,Prince Michael Dr,,,Oakville,ON,,L6H,CA,Halton
+4716-103129,43.483057,-79.696175,43.483478,-79.696941,1,rooftop,1028,Glenbrook Ave,,,Oakville,ON,,L6H,CA,Halton
+4635-99050,43.580256,-79.711998,43.580222,-79.712051,1,rooftop,242,Queen St S,,,Mississauga,ON,,L5M,CA,Peel Region
+20683-199288,43.460341,-79.674737,43.460557,-79.674734,1,rooftop,445,Cornwall Rd,,,Oakville,ON,,L6J,CA,City of Oakville
+4573-96127,43.457571,-79.67862,43.457362,-79.678933,1,rooftop,321,Cornwall Rd,,,Oakville,ON,,L6J,CA,Halton
+51733-279227,43.461483,-79.686989,43.461692,-79.687301,1,rooftop,240,Leighland Ave,,,Oakville,ON,,L6H,CA,Halton
+20684-195385,43.488398,-79.718848,43.488599,-79.719363,1,rooftop,325,Dundas St E,,,Snider,ON,,L6M,CA,City of Oakville
+4430-18659,43.487401,-79.718246,43.487507,-79.718503,1,rooftop,330,Dundas St E,,,Oakville,ON,,L6H,CA,Halton
+16201-140064,43.559777,-79.733801,43.559683,-79.733635,1,rooftop,3030,Thomas St,,,Mississauga,ON,,L5M,CA,Peel Region
+4229-255943,43.446291,-79.66787,43.446337,-79.667915,1,rooftop,225,Lakeshore Rd E,,,Oakville,ON,,L6J,CA,City of Oakville
+17342-166924,43.438198,-79.675716,43.438084,-79.675859,1,rooftop,150,Lakeshore Rd W,,,Oakville,ON,,L6K,CA,Halton
+4258-286587,43.450892,-79.70291,43.450901,-79.702948,1,rooftop,215,N Service Rd W,,,Snider,ON,,L6M,CA,Halton
+4384-253006,43.754076,-79.351746,43.754311,-79.35123,1,rooftop,861,York Mills Rd,,,Don Mills,ON,,M3B,CA,City of Toronto
+20682-200387,43.75309,-79.35906,43.752722,-79.359226,1,rooftop,799,York Mills Rd,,,Don Mills,ON,,M3B,CA,City of Toronto
+4804-106564,43.772212,-79.321125,43.771851,-79.320968,1,rooftop,2501,Victoria Park Ave,,,Scarborough,ON,,M1T,CA,City of Toronto
+47181-251744,43.768327,-79.271867,43.76833,-79.271703,1,rooftop,1100,Ellesmere Rd,,,Scarborough,ON,,M1P,CA,City of Toronto
+4350-2078,43.77247,-79.283023,43.772145,-79.282833,1,rooftop,20,William Kitchen Rd,,,Scarborough,ON,,M1P,CA,City of Toronto
+75397-104159,43.768926,-79.363267,43.769619,-79.362453,0.99,rooftop,4001,Leslie St,,,York,ON,,M2K,CA,City of Toronto
+49964-251783,43.708085,-79.249524,43.708515,-79.249628,1,rooftop,2385,Kingston Rd,,,Scarborough,ON,,M1N,CA,City of Toronto
+4803-97529,43.726914,-79.293247,43.726637,-79.294073,1,rooftop,1900A,Eglinton Ave E,,,Scarborough,ON,,M1R,CA,City of Toronto
+24209-236145,43.752471,-79.276377,43.752447,-79.276426,1,rooftop,1156,Kennedy Rd,,,Scarborough,ON,,M1P,CA,City of Toronto
+55957-289847,43.708146,-79.342249,43.708425,-79.342166,1,rooftop,1,William Morgan Dr,,,York,ON,,M4H,CA,City of Toronto
+4095-282005,43.735917,-79.344281,43.735954,-79.344301,1,rooftop,6,Pabst Ln,,,Don Mills,ON,,M3C,CA,City of Toronto
+4667-100881,43.71068,-79.360969,43.710534,-79.36178,1,rooftop,65,Wicksteed Ave,,,York,ON,,M4G,CA,City of Toronto
+16982-173365,43.705628,-79.361623,43.705571,-79.361797,1,rooftop,82,Laird Dr,,,York,ON,,M4G,CA,City of Toronto
+16867-167024,43.713667,-79.364827,43.713756,-79.365023,1,rooftop,878,Eglinton Ave E,,,York,ON,,M4G,CA,City of Toronto
+16896-163444,43.705934,-79.389431,43.705936,-79.389486,1,rooftop,694,Mt Pleasant Rd,,,Toronto,ON,,M4S,CA,City of Toronto
+4276-936,43.705186,-79.374763,43.705134,-79.374719,1,rooftop,1543,Bayview Ave,,,York,ON,,M4G,CA,City of Toronto
+4209-527,43.698458,-79.396395,43.698486,-79.396418,1,rooftop,1909,Yonge St,,,Toronto,ON,,M4S,CA,City of Toronto
+4929-125664,43.705541,-79.39786,43.705541,-79.397835,1,rooftop,2187,Yonge St,,,Toronto,ON,,M4S,CA,City of Toronto
+4508-93343,43.707613,-79.398682,43.707816,-79.398449,1,rooftop,5,Roehampton Ave,,,Toronto,ON,,M4P,CA,City of Toronto
+4427-55359,43.706905,-79.396868,43.706871,-79.396939,1,rooftop,39,Eglinton Ave E,,,Toronto,ON,,M4S,CA,City of Toronto
+60047-292777,43.707252,-79.39505,43.707187,-79.395,1,rooftop,87,Eglinton Ave E,,,Toronto,ON,,M4S,CA,City of Toronto
+4742-104613,43.711017,-79.399022,43.711031,-79.399003,1,rooftop,2451,Yonge St,,,Toronto,ON,,M4P,CA,City of Toronto
+4524-93176,43.640011,-79.380982,43.64009,-79.381499,1,rooftop,208,Queens Quay W,,,Toronto,ON,,M5J,CA,City of Toronto
+22866-225584,43.670039,-79.391614,43.670027,-79.391675,1,rooftop,115,Cumberland St,,,Toronto,ON,,M5R,CA,City of Toronto
+15631-158804,43.669022,-79.397629,43.669077,-79.397677,1,rooftop,43A,Prince Arthur Ave,,,Toronto,ON,,M5R,CA,City of Toronto
+4386-23787,43.678015,-79.390238,43.677997,-79.390257,1,rooftop,1088,Yonge St,,,Toronto,ON,,M5R,CA,City of Toronto
+4282-879,43.6861,-79.392933,43.686136,-79.39289,1,rooftop,5,Rosehill Ave,,,Toronto,ON,,M4T,CA,City of Toronto
+27009-242505,43.686543,-79.39986,43.686608,-79.400189,1,rooftop,129,St Clair Ave W,,,Toronto,ON,,M4V,CA,City of Toronto
+4296-250015,43.688515,-79.394093,43.688505,-79.394005,1,rooftop,1451,Yonge St,,,Toronto,ON,,M4T,CA,City of Toronto
+4225-767,43.657751,-79.387508,43.657372,-79.387438,1,rooftop,555,University Ave,,,Toronto,ON,,M5G,CA,City of Toronto
+56473-289530,43.654442,-79.387758,43.654609,-79.387691,1,rooftop,443,University Ave,,,Toronto,ON,,M5G,CA,City of Toronto
+19355-197904,43.655938,-79.388517,43.656258,-79.388223,1,rooftop,525,University Ave,,,Toronto,ON,,M5G,CA,City of Toronto
+4518-93219,43.658317,-79.389438,43.658164,-79.389144,1,rooftop,585,University Ave,,,Toronto,ON,,M5G,CA,City of Toronto
+21792-214225,43.659559,-79.389792,43.659456,-79.389551,1,rooftop,661,University Ave,,,Toronto,ON,,M5G,CA,City of Toronto
+19664-198964,43.64971,-79.385615,43.649868,-79.385371,1,rooftop,145,Richmond St W,,,Toronto,ON,,M5H,CA,City of Toronto
+4869-117170,43.646833,-79.384171,43.646957,-79.384009,1,rooftop,55,University Ave,,,Toronto,ON,,M5H,CA,City of Toronto
+20991-207444,43.66805,-79.388501,43.668038,-79.388446,1,rooftop,1121,Bay St,,,Toronto,ON,,M5S,CA,City of Toronto
+4507-289538,43.669289,-79.388637,43.669641,-79.388688,1,rooftop,55,Bloor St W,,,Toronto,ON,,M4Y,CA,City of Toronto
+3896-150465,43.645042,-79.38346,43.644903,-79.383096,1,rooftop,123,Front St W,,,Toronto,ON,,M5J,CA,City of Toronto
+4402-2830,43.670506,-79.389778,43.67078,-79.389698,1,rooftop,70,Cumberland St,,,Toronto,ON,,M5R,CA,City of Toronto
+60071-292724,43.660373,-79.328217,43.659698,-79.328472,1,rooftop,11,Leslie St,,,Toronto,ON,,M4L,CA,City of Toronto
+4817-251106,43.65958,-79.328309,43.659698,-79.328472,1,rooftop,11,Leslie St,,,Toronto,ON,,M4L,CA,City of Toronto
+4581-96731,43.668414,-79.307944,43.668507,-79.307887,1,rooftop,1842,Queen St E,,,Toronto,ON,,M4L,CA,City of Toronto
+4718-100794,43.660675,-79.34238,43.660712,-79.342406,1,rooftop,908,Queen St E,,,Toronto,ON,,M4M,CA,City of Toronto
+4227-271584,43.669721,-79.302125,43.669744,-79.302182,1,rooftop,1960,Queen St E,,,Toronto,ON,,M4L,CA,City of Toronto
+25624-238965,43.682472,-79.327092,43.682453,-79.326926,1,rooftop,1419,Danforth Ave,,,Toronto,ON,,M4J,CA,City of Toronto
+4598-265764,43.680116,-79.339567,43.680101,-79.33961,1,rooftop,6,Dewhurst Blvd,,,Toronto,ON,,M4J,CA,City of Toronto
+4205-530,43.678794,-79.346309,43.678804,-79.346294,1,rooftop,604A,Danforth Ave,,,Toronto,ON,,M4K,CA,City of Toronto
+23247-228144,43.676438,-79.358382,43.6765,-79.358363,1,rooftop,108,Danforth Ave,,,Toronto,ON,,M4K,CA,City of Toronto
+4719-101643,43.68088,-79.284976,43.680915,-79.284948,1,rooftop,1020,Kingston Rd,,,Toronto,ON,,M4E,CA,City of Toronto
+47561-255989,43.651407,-79.364329,43.651387,-79.364262,1,rooftop,240,Front St E,,,Toronto,ON,,M5A,CA,City of Toronto
+17181-170464,43.695983,-79.328918,43.696,-79.329012,1,rooftop,394,Plains Rd,,,Toronto,ON,,M4J,CA,City of Toronto
+47992-257165,43.687708,-79.288047,43.6875,-79.288326,1,rooftop,25,Musgrave St,,,Toronto,ON,,M4E,CA,City of Toronto
+28762-250887,43.651213,-79.367921,43.651223,-79.367896,1,rooftop,253,King St E,,,Toronto,ON,,M5A,CA,City of Toronto
+54363-280205,43.644383,-79.36815,43.644446,-79.368115,1,rooftop,134,Queens Quay E,,,Toronto,ON,,M5A,CA,City of Toronto
+4998-290884,43.651802,-79.372544,43.651835,-79.372655,1,rooftop,142,Adelaide St E,,,Toronto,ON,,M5C,CA,City of Toronto
+56315-278012,43.657296,-79.374377,43.657294,-79.374354,1,rooftop,190,Dundas St E,,,Toronto,ON,,M5B,CA,City of Toronto
+47988-253946,43.644697,-79.369731,43.644491,-79.369878,1,rooftop,10,Lower Jarvis St,,,Toronto,ON,,M5E,CA,City of Toronto
+4220-765,43.648777,-79.372519,43.64879,-79.372489,1,rooftop,83,Front St E,,,Toronto,ON,,M5E,CA,City of Toronto
+27133-154144,43.659804,-79.378759,43.659946,-79.378766,1,rooftop,366,Church St,,,Toronto,ON,,M5B,CA,City of Toronto
+4270-186347,43.652433,-79.378662,43.652279,-79.378669,1,rooftop,1,Queen St E,,,Toronto,ON,,M5C,CA,City of Toronto
+4208-524,43.664982,-79.380505,43.665016,-79.38043,1,rooftop,485,Church St,,,Toronto,ON,,M4Y,CA,City of Toronto
+4497-90784,43.65643,-79.380453,43.65631,-79.380383,1,rooftop,3,Dundas St E,,,Toronto,ON,,M5B,CA,City of Toronto
+4300-884,43.649245,-79.378134,43.649336,-79.378307,1,rooftop,2,King St W,,,Toronto,ON,,M5H,CA,City of Toronto
+4361-1347,43.654015,-79.380185,43.653994,-79.380242,1,rooftop,230,Yonge St,,,Toronto,ON,,M5G,CA,City of Toronto
+21589-203526,43.642362,-79.374491,43.642361,-79.37437,1,rooftop,1,Yonge St,,,Toronto,ON,,M5E,CA,City of Toronto
+4455-84621,43.653249,-79.380409,43.653498,-79.380419,1,rooftop,250,Yonge St,,,Toronto,ON,,M5G,CA,City of Toronto
+4448-67903,43.671343,-79.380697,43.671315,-79.380723,1,rooftop,243,Bloor St E,,,Toronto,ON,,M4Y,CA,City of Toronto
+20622-203445,43.649644,-79.379636,43.649479,-79.379566,1,rooftop,40,King St W,,,Toronto,ON,,M5H,CA,City of Toronto
+4510-93341,43.653657,-79.381193,43.653547,-79.380862,1,rooftop,55,James St,,,Toronto,ON,,M5G,CA,City of Toronto
+58364-290635,43.660837,-79.383063,43.660931,-79.382704,1,rooftop,437,Yonge St,,,Toronto,ON,,M5B,CA,City of Toronto
+4246-899,43.661483,-79.383323,43.661438,-79.38349,1,rooftop,2,College St,,,Toronto,ON,,M4Y,CA,City of Toronto
+8178-146684,43.655931,-79.38273,43.655676,-79.382875,1,rooftop,55,Dundas St W,,,Toronto,ON,,M5G,CA,City of Toronto
+4830-108885,43.645978,-79.379993,43.645981,-79.380243,1,rooftop,72,Front St W,,,Toronto,ON,,M5H,CA,City of Toronto
+4251-768,43.665062,-79.384414,43.665126,-79.384481,1,rooftop,559,Yonge St,,,Toronto,ON,,M4Y,CA,City of Toronto
+19550-195624,43.649276,-79.381678,43.649398,-79.382178,1,rooftop,77,Adelaide St W,,,Toronto,ON,,M5H,CA,City of Toronto
+19474-181945,43.647231,-79.380913,43.647231,-79.381225,1,rooftop,66,Wellington St W,,,Toronto,ON,,M5H,CA,City of Toronto
+49897-270229,43.657398,-79.384607,43.657126,-79.384639,1,rooftop,650,Bay St,,,Toronto,ON,,M5G,CA,City of Toronto
+60067-292776,43.699453,-79.360309,43.699973,-79.36016,1,rooftop,11,Redway Rd,,,Toronto,ON,,M4W,CA,City of Toronto
+7160-149825,43.670863,-79.384492,43.670957,-79.384588,1,rooftop,100,Bloor St E,,,Toronto,ON,,M4W,CA,City of Toronto
+4217-790,43.6494,-79.38302,43.649129,-79.382839,1,rooftop,105,Adelaide St W,,,Toronto,ON,,M5H,CA,City of Toronto
+17771-181624,43.646746,-79.382091,43.646681,-79.381819,1,rooftop,85,Wellington St W,,,Toronto,ON,,M5H,CA,City of Toronto
+3845-145984,43.655515,-79.385423,43.65555,-79.385535,1,rooftop,150,Dundas St W,,,Toronto,ON,,M5G,CA,City of Toronto
+15689-162706,43.662488,-79.386277,43.662641,-79.386171,1,rooftop,873,Bay St,,,Toronto,ON,,M4Y,CA,City of Toronto
+6028-138146,43.643645,-79.380661,43.643432,-79.381214,1,rooftop,25,York St,,,Toronto,ON,,M5J,CA,City of Toronto
+4766-105713,43.655491,-79.385558,43.65555,-79.385535,1,rooftop,150,Dundas St W,,,Toronto,ON,,M5G,CA,City of Toronto
+23689-232644,43.645042,-79.381912,43.645159,-79.38212,1,rooftop,97,Front St W,,,Toronto,ON,,M5J,CA,City of Toronto
+55764-289561,43.669867,-79.386354,43.669731,-79.386277,1,rooftop,725,Yonge St,,,Toronto,ON,,M4W,CA,City of Toronto
+27130-106119,43.642475,-79.380905,43.642348,-79.380871,1,rooftop,15,York St,,,Toronto,ON,,M5J,CA,City of Toronto
+4460-67901,43.670692,-79.386329,43.671054,-79.386768,1,rooftop,765,Yonge St,,,Toronto,ON,,M4W,CA,City of Toronto
+3999-144325,43.646004,-79.385645,43.645845,-79.385746,1,rooftop,155,Wellington St W,,,Toronto,ON,,M5V,CA,City of Toronto
+4801-106847,43.650734,-79.38753,43.650833,-79.387839,1,rooftop,180,Queen St W,,,Toronto,ON,,M5T,CA,City of Toronto
+60043-292778,43.546624,-79.593517,43.54711,-79.593347,1,rooftop,232,Lakeshore Rd W,,,Mississauga,ON,,L5H,CA,Peel Region
+4438-75461,43.665413,-79.409947,43.665351,-79.409682,1,rooftop,365,Lippincott St,,,Toronto,ON,,M5S,CA,City of Toronto
+22078-206624,43.64011,-79.393277,43.640033,-79.393268,1,rooftop,2H,Spadina Ave,,,Toronto,ON,,M5V,CA,City of Toronto
+4495-93179,43.648073,-79.396361,43.648102,-79.396416,1,rooftop,146,Spadina Ave,,,Toronto,ON,,M5V,CA,City of Toronto
+22368-219071,43.637771,-79.392283,43.637805,-79.392216,1,rooftop,452,Queens Quay W,,,Toronto,ON,,M5V,CA,City of Toronto
+4802-104798,43.646235,-79.39206,43.645966,-79.391945,1,rooftop,355,King St W,,,Toronto,ON,,M5V,CA,City of Toronto
+22438-212524,43.647524,-79.392651,43.647518,-79.39261,1,rooftop,338,Adelaide St W,,,Toronto,ON,,M5V,CA,City of Toronto
+27007-240848,43.64233,-79.38995,43.642179,-79.389371,1,rooftop,1,Blue Jays Way,,,Toronto,ON,,M5J,CA,City of Toronto
+21891-207467,43.64423,-79.389123,43.644301,-79.389167,1,rooftop,20,John St,,,Toronto,ON,,M5V,CA,City of Toronto
+4459-85822,43.645413,-79.389516,43.645456,-79.389513,1,rooftop,42,John St,,,Toronto,ON,,M5V,CA,City of Toronto
+4232-772,43.650006,-79.390993,43.650104,-79.390953,1,rooftop,155,John St,,,Toronto,ON,,M5T,CA,City of Toronto
+4636-255353,43.643864,-79.401814,43.643882,-79.401766,1,rooftop,637,King St W,,,Toronto,ON,,M5V,CA,City of Toronto
+22839-224105,43.636941,-79.400064,43.636706,-79.400081,1,rooftop,600,Fleet St,,,Toronto,ON,,M5V,CA,City of Toronto
+48200-252825,43.634111,-79.411782,43.633751,-79.412071,1,rooftop,107,Princes' Blvd,,,Toronto,ON,,M5V,CA,City of Toronto
+52585-280626,43.642398,-79.427917,43.642638,-79.427812,1,rooftop,1230,Queen St W,,,Toronto,ON,,M6J,CA,City of Toronto
+20837-289009,43.639005,-79.42742,43.63909,-79.427623,1,rooftop,1200,King St W,,,Toronto,ON,,M6K,CA,City of Toronto
+4841-109906,43.639815,-79.419596,43.639489,-79.419568,1,rooftop,51,Hanna Ave,,,Toronto,ON,,M6K,CA,City of Toronto
+16997-177184,43.644186,-79.418957,43.644311,-79.419087,1,rooftop,2,Ossington Ave,,,Toronto,ON,,M6J,CA,City of Toronto
+27933-220484,43.639472,-79.417065,43.639442,-79.416719,1,rooftop,86,Lynn Williams St,,,Toronto,ON,,M6K,CA,City of Toronto
+4646-98483,43.641282,-79.414767,43.641249,-79.415127,1,rooftop,1007A,King St W,,,Toronto,ON,,M6K,CA,City of Toronto
+25873-241154,43.591381,-79.575052,43.591585,-79.575395,1,rooftop,1065,N Service Rd,,,Mississauga,ON,,L4Y,CA,Peel Region
+20834-203586,43.594233,-79.533455,43.594245,-79.533453,1,rooftop,3563,Lake Shore Blvd W,,,Etobicoke,ON,,M8W,CA,City of Toronto
+20593-206884,43.607575,-79.653186,43.607575,-79.653295,1,rooftop,5029,Hurontario St,,,Mississauga,ON,,L4Z,CA,Peel Region
+58155-290445,43.592271,-79.635265,43.592409,-79.634861,1,rooftop,3670,Hurontario St,,,Mississauga,ON,,L5B,CA,Peel Region
+4478-89926,43.59305,-79.642162,43.59311,-79.642322,1,rooftop,100,City Centre Dr,,,Mississauga,ON,,L5B,CA,Peel Region
+29141-252625,43.591682,-79.643364,43.592225,-79.643156,1,rooftop,100,City Centre Dr,,,Mississauga,ON,,L5B,CA,Peel Region
+56428-290339,43.592938,-79.645745,43.592488,-79.644902,0.99,rooftop,100,City Centre Dr,,,Mississauga,ON,,L5B,CA,Peel Region
+4303-1148,43.594479,-79.648065,43.594299,-79.647903,1,rooftop,189,Rathburn Rd W,,,Mississauga,ON,,L5B,CA,Peel Region
+25595-241230,43.622389,-79.481608,43.622743,-79.481934,1,rooftop,2200,Lake Shore Blvd W,,,Etobicoke,ON,,M8Y,CA,City of Toronto
+53975-286187,43.571948,-79.608955,43.572041,-79.608881,1,rooftop,100,Queensway W,,,Mississauga,ON,,L5B,CA,Peel Region
+4408-6346,43.570281,-79.602784,43.570249,-79.602736,1,rooftop,2100,Hurontario St,,,Mississauga,ON,,L5B,CA,Peel Region
+20687-181584,43.586508,-79.647098,43.586488,-79.647224,1,rooftop,4076,Confederation Pkwy,,,Mississauga,ON,,L5B,CA,Peel Region
+56976-290976,43.613304,-79.696408,43.613524,-79.696663,1,rooftop,6055,Mavis Rd,,,Mississauga,ON,,L5V,CA,Peel Region
+4387-23529,43.549879,-79.58727,43.549853,-79.587182,1,rooftop,111,Lakeshore Rd W,,,Mississauga,ON,,L5H,CA,Peel Region
+4906-124044,43.844945,-79.470594,43.844795,-79.470722,1,rooftop,1101,Rutherford Rd,,,Thornhill,ON,,L4J,CA,City of Vaughan
+4395-24448,43.794108,-79.445591,43.794016,-79.445386,1,rooftop,7077,Bathurst St,,,Thornhill,ON,,L4J,CA,City of Markham
+50942-276496,43.80619,-79.452121,43.806518,-79.452383,1,rooftop,1,Promenade Cir,,,Thornhill,ON,,L4J,CA,City of Vaughan
+4743-103298,43.816819,-79.452133,43.816812,-79.452393,1,rooftop,8010,Bathurst St,,,Thornhill,ON,,L4J,CA,York
+4703-102543,43.768289,-79.412951,43.768282,-79.412912,1,rooftop,5102,Yonge St,,,Willowdale,ON,,M2N,CA,City of Toronto
+4717-102447,43.779884,-79.41622,43.780002,-79.415988,1,rooftop,5650,Yonge St,,,Willowdale,ON,,M2M,CA,City of Toronto
+55370-288978,43.761646,-79.410508,43.76141,-79.41055,1,rooftop,4799,Yonge St,,,Willowdale,ON,,M2N,CA,City of Toronto
+4711-103342,43.757999,-79.409775,43.758015,-79.4097,1,rooftop,4661,Yonge St,,,Willowdale,ON,,M2N,CA,City of Toronto
+24222-232704,43.744613,-79.406552,43.744715,-79.406324,1,rooftop,4023,Yonge St,,,York,ON,,M2P,CA,City of Toronto
+73734-106121,43.850718,-79.534171,43.851192,-79.534699,1,rooftop,2810,Major Mackenzie Dr,,,Peace Village (Ahmadiyya Village),ON,,L6A,CA,City of Vaughan
+26281-243832,43.79668,-79.419235,43.796697,-79.419385,1,rooftop,6355,Yonge St,,,Willowdale,ON,,M2M,CA,City of Toronto
+4254-586,43.729817,-79.403647,43.729804,-79.403709,1,rooftop,1A,Brookdale Ave,,,York,ON,,M5M,CA,City of Toronto
+4206-529,43.700719,-79.427455,43.700817,-79.427518,1,rooftop,900,Eglinton Ave W,,,York,ON,,M6C,CA,City of Toronto
+4720-103563,43.653465,-79.451594,43.653421,-79.451509,1,rooftop,481,Roncesvalles Ave,,,Toronto,ON,,M6R,CA,City of Toronto
+4207-525,43.728702,-79.418433,43.728699,-79.418449,1,rooftop,1740,Ave Rd,,,York,ON,,M5M,CA,City of Toronto
+4798-104189,43.683163,-79.418527,43.683357,-79.418635,1,rooftop,500,St Clair Ave W,,,York,ON,,M6C,CA,City of Toronto
+54396-286182,43.722638,-79.415321,43.72263,-79.415324,1,rooftop,1507,Ave Rd,,,York,ON,,M5M,CA,City of Toronto
+56042-289933,43.660285,-79.434047,43.660337,-79.43402,1,rooftop,1090,Bloor St W,,,Toronto,ON,,M6H,CA,City of Toronto
+4226-771,43.703935,-79.411665,43.703731,-79.411717,1,rooftop,425,Eglinton Ave W,,,Toronto,ON,,M5P,CA,City of Toronto
+60051-292781,43.683877,-79.415186,43.684046,-79.415094,1,rooftop,370,St Clair Ave W,,,Toronto,ON,,M5P,CA,City of Toronto
+4210-531,43.689263,-79.412967,43.689303,-79.412628,1,rooftop,441,Spadina Rd,,,Toronto,ON,,M4V,CA,City of Toronto
+15409-154170,43.671537,-79.421386,43.671509,-79.421298,1,rooftop,657,Dupont St,,,Toronto,ON,,M6G,CA,City of Toronto
+60044-292769,43.671847,-79.420916,43.6716,-79.420838,1,rooftop,643,Dupont St,,,Toronto,ON,,M6G,CA,City of Toronto
+25829-242624,43.656002,-79.435365,43.655817,-79.435362,1,rooftop,900,Dufferin St,,,Toronto,ON,,M6H,CA,City of Toronto
+23090-212865,43.627667,-79.489193,43.627638,-79.489106,1,rooftop,144,Park Lawn Rd,,,Etobicoke,ON,,M8Y,CA,City of Toronto
+4637-99042,43.65346,-79.426437,43.653425,-79.426503,1,rooftop,941,College St,,,Toronto,ON,,M6J,CA,City of Toronto
+4241-770,43.715586,-79.40045,43.71556,-79.400466,1,rooftop,4,Craighurst Ave,,,Toronto,ON,,M4R,CA,City of Toronto
+17627-180704,43.724975,-79.402292,43.724806,-79.402424,1,rooftop,3042,Yonge St,,,Toronto,ON,,M4N,CA,City of Toronto
+20681-199287,43.815288,-79.607485,43.814984,-79.607638,1,rooftop,160,St Michele Pl,,,Coleraine,ON,,L4H,CA,City of Vaughan
+23418-229684,43.826263,-79.55645,43.825795,-79.556926,1,rooftop,3883,Rutherford Rd,,,Woodbridge,ON,,L4L,CA,York
+4612-220385,43.825874,-79.538664,43.825724,-79.538321,1,rooftop,1,Bass Pro Mills Dr,,,Vaughan,ON,,L4K,CA,City of Markham
+24008-210505,43.825506,-79.535387,43.825506,-79.535387,0.23,nearest_place,,,,,Vaughan,ON,,L4K,CA,CanVec+ by Natural Resources Canada
+4525-93920,43.78603,-79.474392,43.786104,-79.473992,1,rooftop,2081,Steeles Ave W,,,York,ON,,M3J,CA,City of Toronto
+4732-104193,43.829296,-79.536886,43.829093,-79.537175,1,rooftop,3175,Rutherford Rd,,,Vaughan,ON,,L4K,CA,City of Vaughan
+4791-104690,43.844416,-79.560074,43.844361,-79.561336,0.99,rooftop,9990,Weston Rd,,,Coleraine,ON,,L4H,CA,City of Vaughan
+4585-95347,43.755604,-79.44039,43.755657,-79.440425,1,rooftop,614C-626C,Sheppard Ave W,,,York,ON,,M3H,CA,City of Toronto
+54360-286336,43.84423,-79.535228,43.844214,-79.535167,1,rooftop,9681,Jane St,,,Peace Village (Ahmadiyya Village),ON,,L6A,CA,City of Markham
+15977-156245,43.734091,-79.433208,43.734088,-79.432973,1,rooftop,3671,Bathurst St,,,York,ON,,M5M,CA,City of Toronto
+55183-289008,43.835922,-79.508674,43.835479,-79.509008,1,rooftop,9222,Keele St,,,Vaughan,ON,,L4K,CA,City of Vaughan
+27312-247111,43.685485,-79.619006,43.686204,-79.619957,0.99,rooftop,6294,Terminal 3rd Rd,,,Mississauga,ON,,L4T,CA,Peel Region
+24039-235146,43.68139,-79.610395,43.681112,-79.61173,0.99,rooftop,5980,Airport Rd,,,Mississauga,ON,,L4T,CA,Peel Region
+25370-240804,43.734982,-79.601623,43.735138,-79.602305,1,rooftop,6620,Finch Ave W,,,Etobicoke,ON,,M9V,CA,City of Toronto
+59054-293162,43.700204,-79.636599,43.700151,-79.636405,1,rooftop,6789,Airport Rd,,,Mississauga,ON,,L4T,CA,Peel Region
+75688-84983,43.679568,-79.616736,43.679568,-79.616736,0.64,nearest_place,,,,,Mississauga,ON,,L5T,CA,CanVec+ by Natural Resources Canada
+53982-284884,43.674408,-79.555926,43.674161,-79.555976,1,rooftop,208,Lloyd Manor Rd,,,Etobicoke,ON,,M9B,CA,City of Toronto
+23244-228105,43.696414,-79.533433,43.696408,-79.533475,1,rooftop,1564,Royal York Rd,,,Etobicoke,ON,,M9P,CA,City of Toronto
+54922-288678,43.653606,-79.600226,43.653906,-79.599978,1,rooftop,5495,Eglinton Ave W,,,Etobicoke,ON,,M9C,CA,City of Toronto
+56997-290461,43.654208,-79.646893,43.654194,-79.646831,1,rooftop,5960,Dixie Rd,,,Mississauga,ON,,L4T,CA,Peel Region
+55763-289630,43.641464,-79.576601,43.641684,-79.576691,1,rooftop,666,Burnhamthorpe Rd,,,Etobicoke,ON,,M9C,CA,City of Toronto
+60070-223747,43.644434,-79.55944,43.643962,-79.559599,1,rooftop,380,The East Mall,,,Etobicoke,ON,,M9B,CA,City of Toronto
+25874-242409,43.635577,-79.596459,43.636355,-79.596341,0.99,rooftop,1891,Rathburn Rd E,,,Mississauga,ON,,L4W,CA,Peel Region
+4657-100002,43.636896,-79.621065,43.636956,-79.620809,1,rooftop,5067,Dixie Rd,,,Mississauga,ON,,L4W,CA,Peel Region
+52762-280748,43.659819,-79.513993,43.659934,-79.514042,1,rooftop,4242,Dundas St W,,,Etobicoke,ON,,M9A,CA,City of Toronto
+29915-255605,43.635141,-79.563314,43.635271,-79.562879,1,rooftop,4201,Bloor St W,,,Etobicoke,ON,,M9C,CA,City of Toronto
+56095-289985,43.76475,-79.660376,43.764775,-79.660355,1,rooftop,5,Beaumaris Dr,,,Brampton,ON,,L6S,CA,Peel Region
+57822-290732,43.783378,-79.575655,43.78331,-79.575032,1,rooftop,4585,Highway 7,,,Woodbridge,ON,,L4L,CA,City of Markham
+4608-98091,43.639623,-79.537513,43.639312,-79.537838,1,rooftop,5236,Dundas St W,,,Etobicoke,ON,,M9B,CA,City of Toronto
+17624-176765,43.638419,-79.537925,43.638581,-79.537644,1,rooftop,5247A-5249A,Dundas St W,,,Etobicoke,ON,,M9B,CA,City of Toronto
+27978-248317,43.645451,-79.522032,43.645492,-79.521954,1,rooftop,3280,Bloor St W,,,Etobicoke,ON,,M8X,CA,City of Toronto
+58378-292399,43.630652,-79.555228,43.630652,-79.555228,0.36,nearest_place,,,,,Etobicoke,ON,,M9B,CA,CanVec+ by Natural Resources Canada
+60056-294115,43.665708,-79.49581,43.665443,-79.49587,1,rooftop,3671,Dundas St W,,,Toronto,ON,,M6S,CA,City of Toronto
+23314-210525,43.737631,-79.701002,43.737639,-79.701065,1,rooftop,3,Gateway Blvd,,,Brampton,ON,,L6S,CA,Peel Region
+23283-228465,43.627519,-79.629323,43.627468,-79.629286,1,rooftop,1010,Eglinton Ave E,,,Mississauga,ON,,L4W,CA,Peel Region
+4613-98127,43.64658,-79.51404,43.646574,-79.513973,1,rooftop,3077A-3081A,Bloor St W,,,Etobicoke,ON,,M8Z,CA,City of Toronto
+4938-124144,43.788607,-79.625929,43.78857,-79.62604,1,rooftop,20,Innovation Dr,,,Coleraine,ON,,L4H,CA,City of Vaughan
+4477-265766,43.667412,-79.489253,43.667436,-79.48954,1,rooftop,2579,St Clair Ave W,,,York,ON,,M6N,CA,City of Toronto
+4291-1393,43.648347,-79.507677,43.648341,-79.507533,1,rooftop,1,Grenview Blvd N,,,Etobicoke,ON,,M8X,CA,City of Toronto
+4313-1748,43.78869,-79.553348,43.789293,-79.553312,1,rooftop,3900,Highway 7,,,Woodbridge,ON,,L4L,CA,City of Vaughan
+50289-273864,43.784322,-79.658811,43.784314,-79.65882,1,rooftop,3995,Cottrelle Blvd,,,Brampton,ON,,L6P,CA,City of Brampton
+53844-284904,43.715462,-79.722025,43.71552,-79.722005,1,rooftop,25,Peel Centre Dr,,,Brampton,ON,,L6T,CA,City of Brampton
+22838-224385,43.698454,-79.463205,43.698145,-79.462958,1,rooftop,1341,Castlefield Ave,,,York,ON,,M6E,CA,City of Toronto
+19818-186625,43.612057,-79.578345,43.612078,-79.578271,1,rooftop,1560,Dundas St E,,,Mississauga,ON,,L4X,CA,Peel Region
+29175-252813,43.614905,-79.557372,43.615363,-79.557266,1,rooftop,320,N Queen St,,,Etobicoke,ON,,M9C,CA,City of Toronto
+18196-186624,43.677263,-79.721439,43.677293,-79.721456,1,rooftop,80,Resolution Dr,,,Brampton,ON,,L6W,CA,Peel Region
+4371-256584,43.613357,-79.557996,43.614356,-79.558136,0.99,rooftop,1780X,The Queensway,,,Etobicoke,ON,,M9C,CA,City of Toronto
+13035-154156,43.665399,-79.471892,43.665346,-79.471883,1,rooftop,3077,Dundas St W,,,Toronto,ON,,M6P,CA,City of Toronto
+17220-168432,43.612887,-79.555692,43.611956,-79.55721,0.99,rooftop,25,The West Mall,,,Etobicoke,ON,,M9C,CA,City of Toronto
+23275-225064,43.633567,-79.687147,43.633782,-79.687461,1,rooftop,6333,Hurontario St,,,Mississauga,ON,,L5W,CA,Peel Region
+4829-109065,43.626353,-79.680198,43.626229,-79.680276,1,rooftop,6020,Hurontario St,,,Mississauga,ON,,L5R,CA,Peel Region
+4233-544,43.651357,-79.475875,43.651473,-79.475865,1,rooftop,2208,Bloor St W,,,Toronto,ON,,M6P,CA,City of Toronto
+17922-173426,43.725315,-79.454165,43.724005,-79.455506,0.97,nearest_street,50,Yorkdale Rd,,,York,ON,,M6A,CA,CanVec+ by Natural Resources Canada
+25747-242317,43.624686,-79.508253,43.624703,-79.508208,1,rooftop,829,The Queensway,,,Etobicoke,ON,,M8Z,CA,City of Toronto
+19842-199404,43.616208,-79.525467,43.61605,-79.525802,1,rooftop,374,Evans Ave,,,Etobicoke,ON,,M8Z,CA,City of Toronto
+21883-215124,43.766139,-79.476335,43.76627,-79.476219,1,rooftop,1115,Finch Ave W,,,York,ON,,M3J,CA,City of Toronto
+4509-93344,43.726773,-79.45183,43.726079,-79.45147,0.99,rooftop,3401,Dufferin St,,,York,ON,,M6A,CA,City of Toronto
+16078-166544,43.757568,-79.465829,43.757906,-79.465952,1,rooftop,180,Rimrock Rd,,,York,ON,,M3J,CA,City of Toronto
+49300-263769,43.725807,-79.450222,43.726079,-79.45147,0.99,rooftop,3401,Dufferin St,,,York,ON,,M6A,CA,City of Toronto
+47666-232784,43.733168,-79.452208,43.733112,-79.452123,1,rooftop,79,Billy Bishop Way,,,York,ON,,M3H,CA,City of Toronto
+79267-99847,43.659944,-79.725689,43.65986,-79.726354,1,rooftop,7700,Hurontario St,,,Brampton,ON,,L6Y,CA,Peel Region
