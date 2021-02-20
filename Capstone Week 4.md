@@ -16,6 +16,12 @@ existing Starbucks coffee shops.  The second is for the City of Toronto for the 
 through neighborhood names and postal codes. The final data set includes the neighborhoods where coffee shop of cafe are the 1st or 2nd most preferred venue, the population
 estimate, and the nubmer of starbucks locations per resident of the community.
 
+Neighborhood: A string or mutliple strings that were sorted using the Toronto Foursquare project.
+Population: Census information provided as floating number values
+Starbucksperperson: Population / locations per neighbourhood (new cacualted field as a floating point value)
+1st Most Common Venue: A string containing standardized names.  Note that this data set includes coffee shop and cafe that I will use interchangeably.
+2nd Most Common Venue: A string containing standardized names.  Note that this data set includes coffee shop and cafe that I will use interchangeably.
+
 The file Starbuck_locations2 contains the store locations
 
 The file torontostarbuck6 includes population data added to the neighbourhood data.
