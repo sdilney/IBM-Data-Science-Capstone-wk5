@@ -3,7 +3,7 @@ Capstone project for battle of the neighbourhoods
 
 Introduction:
 The Toronto Foursquare data set provides community preference data related to venues. One of the main questions asked for data science in geographic data is where to deploy
-resources to make the most profit or return on capital employed (ROI).  By conducting this study, a data scientist is exploring the main methodologies that can be used for 
+resources to make the most profit or return on investment (ROI).  By conducting this study, a data scientist is exploring the main methodologies that can be used for 
 any business application to try and determine the best location for business opportunties.  
 
 In this project I will attempt to find out where a coffee company, such as Starbucks, would want to explore new business opportunites in the city of Toronto based upon customer 
